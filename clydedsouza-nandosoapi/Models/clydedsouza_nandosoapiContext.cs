@@ -7,6 +7,7 @@ using System.Data.Entity.Migrations;
 
 namespace clydedsouza_nandosoapi.Models
 {
+    [DbConfigurationType(typeof(MySql.Data.Entity.MySqlEFConfiguration))] 
     public class clydedsouza_nandosoapiContext : DbContext
     {
         // You can add custom code to this file. Changes will not be overwritten.
