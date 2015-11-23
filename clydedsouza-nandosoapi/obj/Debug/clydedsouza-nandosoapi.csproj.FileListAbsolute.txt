@@ -46,3 +46,13 @@ F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\
 F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\Microsoft.Web.Infrastructure.dll
 F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\Swashbuckle.Core.dll
 F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\WebActivatorEx.dll
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\Microsoft.Owin.Cors.dll
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\Microsoft.Owin.dll
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\MySql.Data.dll
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\MySql.Data.Entity.EF6.dll
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\Owin.dll
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\System.Web.Cors.dll
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\System.Web.Http.Cors.dll
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\Microsoft.Owin.xml
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\Microsoft.Owin.Cors.xml
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\System.Web.Http.Cors.xml
