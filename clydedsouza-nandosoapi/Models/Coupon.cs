@@ -11,7 +11,7 @@ namespace clydedsouza_nandosoapi.Models
     {
         public int ID { get; set; }
         public string Code { get; set; }
-        public string ExpiresOn { get; set; }
+        public DateTime ExpiresOn { get; set; }
         public float Discount { get; set; }
         public int MenuID { get; set; }
         public string Exemptions { get; set; }

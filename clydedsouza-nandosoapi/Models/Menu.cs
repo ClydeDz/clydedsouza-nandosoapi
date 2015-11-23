@@ -25,12 +25,12 @@ namespace clydedsouza_nandosoapi.Models
         public int ID { get; set; }
         public string Item { get; set; }
         public string Description { get; set; }
-        public int Price { get; set; }
+        public double Price { get; set; }
         public Type Type { get; set; }
         public Course Course { get; set; }
-        public Level Hot { get; set; }
+        public Level Level { get; set; }
         public bool OnSpecial { get; set; }
-        public float Discount { get; set; }
+        public double Discount { get; set; }
         public string Day { get; set; }
 
         [JsonIgnore]

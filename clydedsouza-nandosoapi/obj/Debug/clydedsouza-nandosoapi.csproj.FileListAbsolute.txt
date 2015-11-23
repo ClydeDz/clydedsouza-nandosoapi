@@ -43,3 +43,6 @@ F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\
 F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\EntityFramework.SqlServer.dll
 F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\EntityFramework.xml
 F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\EntityFramework.SqlServer.xml
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\Microsoft.Web.Infrastructure.dll
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\Swashbuckle.Core.dll
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\WebActivatorEx.dll
