@@ -70,6 +70,7 @@ namespace clydedsouza_nandosoapi.Models
                     Course = Course.Mains, Level = Level.Mild, OnSpecial = false, Discount = 0, Day ="Monday"
                 }
                 };
+                menuItems.ForEach(s => context.Menus.AddOrUpdate(p => p.ID, s));
                 menuItems.ForEach(s => context.Menus.AddOrUpdate(p => p.Item, s));
                 context.SaveChanges();
 
