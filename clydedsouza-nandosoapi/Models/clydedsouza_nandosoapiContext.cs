@@ -113,6 +113,16 @@ namespace clydedsouza_nandosoapi.Models
                     }
                 };
                 couponItems.ForEach(s => context.Coupons.AddOrUpdate(p => p.Code, s));
+                //foreach (Coupon e in couponItems)
+                //{
+                //    var enrollmentInDataBase = context.Coupons.Where(
+                //        s => s.Menu.ID == e.MenuID).SingleOrDefault();
+                //    if (enrollmentInDataBase == null)
+                //    {
+                //        context.Coupons.Add(e);
+                //    }
+                //}
+
                 context.SaveChanges();
             }
         }
