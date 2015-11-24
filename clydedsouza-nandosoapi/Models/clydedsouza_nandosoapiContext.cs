@@ -71,6 +71,7 @@ namespace clydedsouza_nandosoapi.Models
                 }
                 };
                 menuItems.ForEach(s => context.Menus.AddOrUpdate(p => p.ID, s));
+                menuItems.ForEach(s => context.Menus.AddOrUpdate(p => p.Item, s));
                 context.SaveChanges();
 
                 // Load dummy Coupon Items
