@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="clydedsouza_nandosoapiContext-Web.config Connection String" description="clydedsouza_nandosoapiContext Connection String used in web.config by the application to access the database." defaultValue="Database=clydedsouza-nandosodb;Data Source=au-cdbr-azure-east-a.cloudapp.net;User Id=bbd980524ef9c8;Password=1a5689a3" tags="SqlConnectionString">
+  <parameter name="clydedsouza_nandosoapiContext-Web.config Connection String" description="clydedsouza_nandosoapiContext Connection String used in web.config by the application to access the database." defaultValue="Database=clydedsouza-nandosodb;Data Source=au-cdbr-azure-east-a.cloudapp.net;User Id=b17ad9efcbe701;Password=33211a0f" tags="SqlConnectionString">
     <parameterEntry kind="XmlFile" scope="F:\\Documents\\VisualStudio\\MSA\\API\\clydedsouza-nandosoapi\\clydedsouza-nandosoapi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='clydedsouza_nandosoapiContext']/@connectionString" />
   </parameter>
 </parameters>
