@@ -35,11 +35,11 @@ namespace clydedsouza_nandosoapi.Models
                 },
                  new Menu {
                     Item = "Quarter Chicken & Regular side ",   Description = "Small fraction, big reaction.", Price = 12 , Type = Type.NonVeg,
-                    Course = Course.Mains, Level = Level.Mild, OnSpecial = true, Discount = 2.5, Day ="Monday"
+                    Course = Course.Mains, Level = Level.Mild, OnSpecial = true, Discount = 2.5, Day ="Friday"
                 },
                 new Menu {
                     Item = "5 Grilled Tenderloins",   Description = "So tender you'll feel it in your loins", Price = 15.50 , Type = Type.NonVeg,
-                    Course = Course.Mains, Level = Level.Mild, OnSpecial = true, Discount = 1.2, Day ="Monday"
+                    Course = Course.Mains, Level = Level.Mild, OnSpecial = true, Discount = 1.2, Day ="Tuesday"
                 },
                 new Menu {
                     Item = "Espetada (Portuguese Chicken Skewer)",   Description = "Marinated thigh fillets skewered with fresh red capsicum and onion, flame-grilled to perfection, basted to your heart's desire, served over a regular side.", Price = 17 , Type = Type.NonVeg,
@@ -47,11 +47,11 @@ namespace clydedsouza_nandosoapi.Models
                 },
                 new Menu {
                     Item = "Grilled Livers",   Description = "Grilled in a garlic sauce and basted to your hearts desire. ", Price = 12 , Type = Type.NonVeg,
-                    Course = Course.Mains, Level = Level.Mild, OnSpecial = false, Discount = 0, Day ="Monday"
+                    Course = Course.Mains, Level = Level.Mild, OnSpecial = false, Discount = 0, Day ="Sunday"
                 },
                 new Menu {
                     Item = "Grilled Veggie Strips",   Description = "A wholesome combination of chunky veggies and haloumi cheese grilled with Nando's PERi-PERi basting served with your choice of side. ", Price = 8 , Type = Type.Veg,
-                    Course = Course.Starters, Level = Level.Mild, OnSpecial = false, Discount = 0, Day ="Monday"
+                    Course = Course.Starters, Level = Level.Mild, OnSpecial = false, Discount = 2, Day ="Friday"
                 },
                 new Menu {
                     Item = "5 BBQ Thigh Fillets",   Description = "Get high on some thighs.", Price = 8 , Type = Type.NonVeg,
@@ -63,11 +63,15 @@ namespace clydedsouza_nandosoapi.Models
                 },
                 new Menu {
                     Item = "Supremo Veggie Burger",   Description = "Combining a freshly baked Portuguese roll, scrumptious home-style veggie patty, gourmet lettuce, tomato, light mayo & PERi-PERi chutney.", Price = 13 , Type = Type.Veg,
-                    Course = Course.Mains, Level = Level.Mild, OnSpecial = false, Discount = 0, Day ="Monday"
+                    Course = Course.Mains, Level = Level.Mild, OnSpecial = false, Discount = 0, Day ="Thursday"
                 },
                 new Menu {
                     Item = "Portuguese Veggie Paella",   Description = "Grilled home-style veggie patty combined with veggie strips, tossed over our spicy rice.", Price = 5.90 , Type = Type.Veg,
-                    Course = Course.Mains, Level = Level.Mild, OnSpecial = false, Discount = 0, Day ="Monday"
+                    Course = Course.Mains, Level = Level.Mild, OnSpecial = false, Discount = 0, Day ="Saturday"
+                },
+                new Menu {
+                    Item = "Chocolate Lava Brownie",   Description = "Melt with the warmth of molten chocolate oozing from this brownie", Price = 4.2 , Type = Type.Veg,
+                    Course = Course.Deserts, Level = Level.Mild, OnSpecial = false, Discount = 0, Day ="Monday"
                 }
                 };
                 menuItems.ForEach(s => context.Menus.AddOrUpdate(p => p.ID, s));

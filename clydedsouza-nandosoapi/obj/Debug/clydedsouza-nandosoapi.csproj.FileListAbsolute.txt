@@ -55,3 +55,4 @@ F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\
 F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\bin\System.Web.Http.WebHost.xml
 F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\obj\Debug\clydedsouza-nandosoapi.dll
 F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\obj\Debug\clydedsouza-nandosoapi.pdb
+F:\Documents\VisualStudio\MSA\API\clydedsouza-nandosoapi\clydedsouza-nandosoapi\obj\Debug\clydedsouza-nandosoapi.csprojResolveAssemblyReference.cache
